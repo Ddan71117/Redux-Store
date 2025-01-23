@@ -27,7 +27,7 @@ After installing the application, users can view all of the products on the site
 
 Link for deployed application:
 
-[Redux Store](git@github.com:Ddan71117/Redux-Store.git)
+[Redux Store](https://redux-store-8ykg.onrender.com)
 
 ## Tests
 
