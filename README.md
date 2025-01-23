@@ -15,7 +15,7 @@
 ## Description
 
 This is an E-commerce app that allows users to login, create an account, filter products, view details about each product, and add and remove products from their personal cart. Checking out from the cart redirects the users to a Stripe payment options.
-![ScreenShot]()
+![ScreenShot](https://github.com/Ddan71117/Redux-Store/blob/main/client/src/assets/Product%20Page.PNG)
 
 ## Installation
 
